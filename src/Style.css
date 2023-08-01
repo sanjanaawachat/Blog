@@ -2,10 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: black;
+    color: rgb(17, 16, 16);
 }
 body{
-    background-color:lightskyblue;
+    background-color:rgb(241, 220, 204);
 }
 a{
     text-decoration: none;
@@ -121,7 +121,7 @@ a{
     margin-left: 20px;
 }
 .bigcard__data h5{
-    color: black;
+    color: rgb(19, 18, 18);
     text-decoration: none;
 }
 
